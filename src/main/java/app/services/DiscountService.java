@@ -1,6 +1,7 @@
-package flightapp.services;
+package app.services;
 
-import flightapp.repositories.CouponRepository;
+
+import app.repositories.CouponRepository;
 
 import java.util.Random;
 

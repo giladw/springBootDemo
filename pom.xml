@@ -10,9 +10,9 @@
 	</parent>
 
 	<groupId>flightapp</groupId>
-	<artifactId>DemoApplication</artifactId>
+	<artifactId>springBootDemo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>demo</name>
+	<name>springBootDemo</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>

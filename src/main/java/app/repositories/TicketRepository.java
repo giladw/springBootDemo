@@ -1,4 +1,4 @@
-package flightapp.repositories;
+package app.repositories;
 
 import java.util.List;
 

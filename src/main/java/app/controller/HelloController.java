@@ -1,15 +1,14 @@
-package flightapp.controller;
+package app.controller;
 
-
-import flightapp.repositories.CouponRepository;
-import flightapp.repositories.TicketRepository;
-import flightapp.services.DiscountService;
-import flightapp.services.TicketService;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
+import app.repositories.CouponRepository;
+import app.repositories.TicketRepository;
+import app.services.DiscountService;
+import app.services.TicketService;
 
 
 import java.util.ArrayList;

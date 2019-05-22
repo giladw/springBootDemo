@@ -1,6 +1,7 @@
-package flightapp.services;
+package app.services;
 
-import flightapp.repositories.TicketRepository;
+
+import app.repositories.TicketRepository;
 
 public class TicketService {
     public TicketService(TicketRepository ticketRepository) {
